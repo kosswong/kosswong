@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 This is Koss Wong
+
+Full-Stack Software Engineer a.k.a. Programmer/Developer
+
+- 🌱 I’m currently learning Red Hat Enterprise Linux
 
 <!--
 **kosswong/kosswong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
