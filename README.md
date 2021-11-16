@@ -1,6 +1,7 @@
 ### Hi there 👋 This is Koss Wong
 
-Full-Stack Software Engineer a.k.a. Programmer/Developer
+Full-Stack Software Engineer a.k.a. Programmer/Developer.
+Currently a full-time SQL developer.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kosswong&count_private=true&showicons=true)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosswong&layout=compact)](https://github.com/kosswong/github-readme-stats)
